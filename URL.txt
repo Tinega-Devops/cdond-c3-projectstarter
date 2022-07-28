@@ -5,6 +5,3 @@ http://udapeople-0b87d92.s3-website-us-east-1.amazonaws.com/#/employees
 cloudfront URL
 https://d5iec0hpm561h.cloudfront.net/#/employees
 
-Backend status URL
-
- https://34.224.213.208:3030/api/status
